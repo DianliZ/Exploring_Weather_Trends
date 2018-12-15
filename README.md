@@ -13,8 +13,8 @@
 ### 3.	Draw line chart to compare 10-year moving average temperatures of  Seattle with the  global one:
 1)	Use data of Global 10 yr MA and Seattle 10 yr MA to create line chart;
 2)	Edit Axis and Titles.
-Line chart:
- 
+#### Line chart:
+![capture-line chart](https://user-images.githubusercontent.com/45748918/50048009-2d708300-0076-11e9-9c64-dee9894856fb.PNG) 
  
 ## Observations:
 1.	Average temperatures for both Global and Seattle are increasing from 1847 through 2013;
